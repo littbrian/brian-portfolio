@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+.p-4{
+    width: 95%;
+    margin: auto;
+}
+.work-experience{
+    width: 90%;
+    padding: 10px;
+    text-align: justify;
+    
+}
